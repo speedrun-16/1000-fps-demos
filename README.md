@@ -6,7 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2025-09-17 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2025-09-18 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
 
 ---
