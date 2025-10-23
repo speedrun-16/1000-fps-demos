@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "a62b8e9cc4b604ed5bf7babd95b79b68af5959623a7831289b6de26430556796",
+    "uid": "MHYPP7UJ1",
+    "map": "speedrun_several",
+    "category": 8,
+    "time": 7303,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-22T23:56:13.000Z",
+    "zipFilename": "00007303_STEAM_0_1_29970948_20251022-235613.zip",
+    "path": "speedrun_several/00007303_STEAM_0_1_29970948_20251022-235613.zip",
+    "archivedAt": "2025-10-23T00:00:04.016Z"
+  },
+  {
     "demFileHash": "6e1efde542c576c312b59cdf95b9245776e999b751c8d925f2e770b1c4998f86",
     "uid": "JN5I43LIH",
     "map": "speedrun_chemical",
