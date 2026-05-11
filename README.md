@@ -6,6 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-11 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 5 | 2026-05-10 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
 | [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-12 |
@@ -25,5 +26,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **15**
-- Total Demos: **21**
+- Total Maps: **16**
+- Total Demos: **22**
