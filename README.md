@@ -19,7 +19,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
 | [speedrun_several](./speedrun_several) | 2 | 2026-05-09 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-10-25 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2025-09-18 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2026-06-04 |
 | [speedrun_wander](./speedrun_wander) | 1 | 2025-12-13 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
 
@@ -27,4 +27,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **16**
-- Total Demos: **24**
+- Total Demos: **25**
