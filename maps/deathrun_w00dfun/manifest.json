@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_w00dfun",
+  "updatedAt": "2026-06-19T05:57:10.590471Z",
+  "runs": [
+    {
+      "uid": "KR3RFCH9O",
+      "rid": 51645,
+      "hash": "f8fadddb1721cd278171a1d1895fe9d65939098777d1a58ed32fa2e74cabfd03",
+      "t": 18597,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-05-11T12:24:40Z",
+      "zip": "00018597_STEAM_0_0_631815948_20260511-122440.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_w00dfun-20260511-#KR3RFCH9O.analysis.json",
+          "off": 80,
+          "size": 1161098
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_w00dfun-20260511-#KR3RFCH9O.dem",
+          "off": 1161248,
+          "size": 320536
+        },
+        {
+          "type": "replay",
+          "name": "51645.replay.xz",
+          "off": 1481829,
+          "size": 145580
+        }
+      ]
+    }
+  ]
+}

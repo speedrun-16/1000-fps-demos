@@ -1,34 +1,23 @@
-# Category Archive: 1000 FPS
+# 1000 FPS Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **1000 FPS** category.
+Personal best demo archive for the 1000 FPS category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-11 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-06-07 |
-| [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
-| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-06-07 |
-| [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-12 |
-| [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-17 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2026-05-06 |
-| [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-12-13 |
-| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
-| [speedrun_projetocs2](./speedrun_projetocs2) | 1 | 2026-06-07 |
-| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2026-06-07 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-10-26 |
-| [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
-| [speedrun_several](./speedrun_several) | 2 | 2026-05-09 |
-| [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-10-25 |
-| [speedrun_tracer](./speedrun_tracer) | 1 | 2026-06-07 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2026-06-04 |
-| [speedrun_wander](./speedrun_wander) | 1 | 2025-12-13 |
-| [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 20 |
+| Archived PBs | 29 |
+| Latest Update | 2026-06-07 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **20**
-- Total Demos: **29**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.

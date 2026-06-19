@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_wander",
+  "updatedAt": "2026-06-19T05:57:10.590471Z",
+  "runs": [
+    {
+      "uid": "LTNY3OVIT",
+      "rid": 21660,
+      "hash": "86c85d0d4de67a48122f378939be3b3cace2abed24ca371e97e45675fa1fabcc",
+      "t": 9789,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-12-13T04:25:10Z",
+      "zip": "00009789_STEAM_0_1_771348382_20251213-042510.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_wander-20251213-#LTNY3OVIT.analysis.json",
+          "off": 79,
+          "size": 1075935
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_wander-20251213-#LTNY3OVIT.dem",
+          "off": 1076083,
+          "size": 258383
+        },
+        {
+          "type": "replay",
+          "name": "21660.replay.xz",
+          "off": 1334511,
+          "size": 132576
+        }
+      ]
+    }
+  ]
+}
