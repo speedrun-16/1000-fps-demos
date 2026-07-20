@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_delight",
+  "updatedAt": "2026-07-20T12:00:04.059Z",
+  "runs": [
+    {
+      "uid": "TGFHGO9EG",
+      "rid": 72619,
+      "hash": "e228434640250fd2f0a850e705a9878dc0d44d885cc61be35803c7640dd86c38",
+      "t": 8893,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-20T08:35:47.000Z",
+      "zip": "00008893_STEAM_0_1_771348382_20260720-083547.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_delight-20260720-#TGFHGO9EG.dem",
+          "off": 70,
+          "size": 224379
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_delight-20260720-#TGFHGO9EG.analysis.json",
+          "off": 224529,
+          "size": 701352
+        },
+        {
+          "type": "replay",
+          "name": "72619.replay.xz",
+          "off": 925926,
+          "size": 88960
+        }
+      ]
+    }
+  ]
+}

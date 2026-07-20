@@ -1,7 +1,7 @@
 {
   "category": 8,
   "categoryName": "1000 FPS",
-  "updatedAt": "2026-07-18T18:00:04.369Z",
+  "updatedAt": "2026-07-20T12:00:04.059Z",
   "maps": {
     "speedrun_pupsik": {
       "n": 2,
@@ -56,6 +56,12 @@
       "best": 5191,
       "at": "2025-10-25T23:45:59Z",
       "manifest": "maps/speedrun_TN_f/manifest.json"
+    },
+    "speedrun_delight": {
+      "n": 1,
+      "best": 8893,
+      "at": "2026-07-20T08:35:47.000Z",
+      "manifest": "maps/speedrun_delight/manifest.json"
     },
     "speedrun_yagrehsart_100fps": {
       "n": 1,
