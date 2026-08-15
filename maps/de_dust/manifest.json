@@ -1,0 +1,35 @@
+{
+  "map": "de_dust",
+  "updatedAt": "2026-08-15T00:00:16.702Z",
+  "runs": [
+    {
+      "uid": "TTFWCTEWM",
+      "rid": 82072,
+      "hash": "c898069d2e06fdf5897ba5afd9f4a9e349c6f0de15648556b7eb397eb7228cdc",
+      "t": 6291,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-14T19:33:33.000Z",
+      "zip": "00006291_STEAM_0_1_87291981_20260814-193333.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "de_dust-20260814-#TTFWCTEWM.dem",
+          "off": 61,
+          "size": 189996
+        },
+        {
+          "type": "analysis",
+          "name": "de_dust-20260814-#TTFWCTEWM.analysis.json",
+          "off": 190128,
+          "size": 852875
+        },
+        {
+          "type": "replay",
+          "name": "82072.replay.xz",
+          "off": 1043048,
+          "size": 95048
+        }
+      ]
+    }
+  ]
+}
