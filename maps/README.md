@@ -6,9 +6,9 @@ Map-level archive directory for the 1000 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 24 |
-| Archived PBs | 34 |
-| Latest Update | 2026-08-14 |
+| Maps | 25 |
+| Archived PBs | 35 |
+| Latest Update | 2026-08-16 |
 
 ## Structure
 
