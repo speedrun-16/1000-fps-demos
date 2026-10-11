@@ -6,9 +6,9 @@ Personal best demo archive for the 1000 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 26 |
-| Archived PBs | 37 |
-| Latest Update | 2026-10-03 |
+| Maps | 27 |
+| Archived PBs | 38 |
+| Latest Update | 2026-10-11 |
 
 ## Structure
 
